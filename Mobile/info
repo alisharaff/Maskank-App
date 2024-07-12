@@ -1,1 +1,11 @@
 
+-------------------------------------------
+
+This flutter code of app but before ru this ask me about Base Url 
+
+class AppConstants {
+  static const String appName = 'Maskank App';
+  static const String baseUrl = 'BaseUrlHere'; // Make it for app work
+}
+
+-------------------------------------------
