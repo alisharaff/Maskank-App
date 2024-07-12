@@ -1,7 +1,7 @@
 
 -------------------------------------------
 
-This flutter code of app but before ru this ask me about Base Url 
+This flutter code of app but before run this ask me about Base Url 
 
 class AppConstants {
   static const String appName = 'Maskank App';
